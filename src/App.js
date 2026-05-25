@@ -340,10 +340,10 @@ const App = () => {
     return (
         <div className="container">
             <div className="app-header">
-                <h1 className="app-title">易语翻译</h1>
+                <h1 className="app-title">LibreTranslator</h1>
                 <div className="app-controls">
                     <div className="language-switcher">
-                        <label>语言:</label>
+                        <label>Lang:</label>
                         <select onChange={changeLanguage} value={i18n.language}>
                             <option value="en">English</option>
                             <option value="zh">中文</option>
