@@ -340,7 +340,7 @@ const App = () => {
     return (
         <div className="container">
             <div className="app-header">
-                <h1 className="app-title">LibreTranslator</h1>
+                <h1 className="app-title">YiYuFanYi</h1>
                 <div className="app-controls">
                     <div className="language-switcher">
                         <label>Lang:</label>
